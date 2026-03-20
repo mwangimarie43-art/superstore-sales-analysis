@@ -33,5 +33,5 @@ Built in Power BI with interactive slicers for Region,
 Year and Category filtering.
 
 ## Author
-[Your Name]
+[Mary Mwangi]
 Data Science & Analytics Intern — Future Interns
